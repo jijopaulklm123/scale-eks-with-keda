@@ -3,3 +3,4 @@ aws_cdk.aws_logs
 aws_cdk.aws_iam
 aws_cdk.aws_eks
 aws_cdk.aws_ec2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
